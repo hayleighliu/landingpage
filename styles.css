@@ -67,6 +67,10 @@ body{
     justify-content: right;
 }
 
+.content{
+    padding:50px;
+}
+
 .info-section{
     text-align: center;
     padding: 50px;
