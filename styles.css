@@ -1,12 +1,13 @@
 body{
     margin: 0;
     font-family: Arial, sans-serif;
+    padding: 20px;
 }
 
 .header{
     background-color: #1f2937;
     color: white;
-    padding: 20px;
+    
 }
 
 .navbar{
@@ -67,9 +68,6 @@ body{
     justify-content: right;
 }
 
-.content {
-    padding:15px;
-}
 
 .info-section{
     text-align: center;
