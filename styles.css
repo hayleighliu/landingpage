@@ -67,7 +67,7 @@ body{
     justify-content: right;
 }
 
-.content{
+.content {
     padding:50px;
 }
 
@@ -76,10 +76,9 @@ body{
     padding: 50px;
 }
 
-.info-boxes{
+.content .info-boxes{
     display: flex;
     justify-content: center;
-    padding: 50px;
 }
 
 .box{
