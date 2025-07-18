@@ -63,7 +63,8 @@ body{
 }
 
 .img-test{
-    float: right;
+    display: flex;
+    justify-content: right;
 }
 
 .info-section{
